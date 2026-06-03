@@ -1,0 +1,7 @@
+record_id,decision,reason
+R001,include,
+R002,exclude,wrong population
+R003,exclude,wrong intervention
+R004,include,
+R005,exclude,not quantitative outcome
+R006,maybe,
