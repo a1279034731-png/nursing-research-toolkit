@@ -1,0 +1,28 @@
+{
+  "domains": {
+    "clinical_control": [
+      "item_1",
+      "item_2",
+      "item_3"
+    ],
+    "technical_competence": [
+      "item_4",
+      "item_5",
+      "item_6"
+    ],
+    "professional_meaning": [
+      "item_7",
+      "item_8"
+    ]
+  },
+  "total_items": [
+    "item_1",
+    "item_2",
+    "item_3",
+    "item_4",
+    "item_5",
+    "item_6",
+    "item_7",
+    "item_8"
+  ]
+}
