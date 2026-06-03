@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Nursing Research Toolkit
+message: If you use this toolkit, please cite the repository.
+type: software
+authors:
+  - family-names: Pan
+    given-names: zw
+repository-code: https://github.com/a1279034731-png/nursing-research-toolkit
+license: MIT
+version: 0.1.0
+date-released: 2026-06-03
